@@ -1,6 +1,7 @@
 # StickRPG2-HD
 StickRPG2-HD is an unofficial HD mod for Stick RPG 2 that unlocks window resizing, allows native resolution fullscreen, enables the Steam overlay, and replaces some textures with HD versions.
-It is a update to the mod to hopfuly make it work for all that want to play with it this update is unofficial and all creidet goes to --> https://github.com/rebane2001 
+
+This is a update to the mod to hopfuly make it work for all that want to play with it this update is unofficial and all creidet goes to --> https://github.com/rebane2001 
 
 ## Installation
 1. Download the `StickRPG2-HD-vX.X.X.zip` file from the [latest release](https://github.com/rebane2001/StickRPG2-HD/releases).
